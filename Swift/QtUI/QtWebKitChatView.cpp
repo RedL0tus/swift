@@ -20,7 +20,7 @@
 #include <QStackedWidget>
 #include <QTimer>
 #include <QVBoxLayout>
-#include <QWebFrame>
+#include <QtWebKit/QWebFrame>
 #include <QWebSettings>
 #include <QtDebug>
 
