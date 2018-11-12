@@ -10,7 +10,7 @@
 
 #include <QList>
 #include <QString>
-#include <QWebElement>
+#include <QtWebKit/QWebElement>
 #include <QWidget>
 
 #include <Swift/Controllers/UIInterfaces/ChatWindow.h>
